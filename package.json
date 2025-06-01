@@ -3,15 +3,15 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "start": "react-native start",
     "test": "jest"
   },
   "dependencies": {
     "@types/react": "^16.4.14",
     "moment": "^2.22.2",
     "react": "16.5.0",
-    "react-native": "0.57.0",
-    "react-native-collapsible": "^0.14.0",
+    "react-native": "^0.57.0",
+    "react-native-collapsible": "^0.12.0",
     "react-native-elements": "^0.19.1",
     "react-native-modal-datetime-picker": "^6.0.0",
     "react-native-phone-call": "^1.0.9",
